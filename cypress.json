@@ -1,3 +1,7 @@
 {
-  "baseUrl": "https://sperry94.github.io/cypress-seed/"
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 30000,
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
 }

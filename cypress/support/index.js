@@ -1,1 +1,1 @@
-import 'cypress-pipe'
+import 'cypress-iframe';
